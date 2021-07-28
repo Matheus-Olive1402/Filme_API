@@ -4,9 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+React.createElement('./package.json');
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
+  <React.StrictMode>  
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
