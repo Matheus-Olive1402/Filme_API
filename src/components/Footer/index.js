@@ -6,7 +6,7 @@ class Footer extends Component{
     render(){
         return(
             <div className="footer">
-                <Link to="/">Direitos autorios reservados a mathues</Link>
+                <Link to="/">Direitos autorais reservados a Mathues ©2021</Link>
             </div>
         );
     }
