@@ -1,12 +1,13 @@
 import React, {Component } from 'react';
 import './erro.css'
+import erro_404 from '../../assets/erro_404.jpg'
 
 class Erro extends Component{
     render(){
         return(
-            <div className="container">
-                <div className="text">
-                    <h1>Pagina não encontrada!</h1>
+            <div className="erro">
+                <div className="img">
+                    <img  src={erro_404} alt="fireSpot"/>
                 </div>
             </div>
         );
