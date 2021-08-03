@@ -9,6 +9,8 @@
         background-color:#131d3a;
         border: solid 3px #fff;
         border-bottom: 0px;
+        border-left: 0px;
+        border-right: 0px;
     }
     
     .footer a{
@@ -30,6 +32,8 @@
         background-color:#131d3a;
         border: solid 3px #fff;
         border-bottom: 0px;
+        border-left: 0px;
+        border-right: 0px;
     }
     
     .footer a{
@@ -51,6 +55,8 @@
         background-color:#131d3a;
         border: solid 3px #fff;
         border-bottom: 0px;
+        border-left: 0px;
+        border-right: 0px;
     }
     
     .footer a{
@@ -72,6 +78,9 @@
         background-color:#131d3a;
         border: solid 3px #fff;
         border-bottom: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        position: relative;
     }
     
     .footer a{
@@ -81,3 +90,4 @@
         cursor: pointer;
     }
 }
+

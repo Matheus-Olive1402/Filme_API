@@ -103,7 +103,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 800px;
+        width: 500px;
     }
     
     .lista-filmes{
@@ -127,8 +127,8 @@
     }
     
     img{
-      max-height: 350px;
-      width: 900px;  
+        max-height: 250px;
+        width: 570px;
     }
     
     .lista-filmes article a{
@@ -172,7 +172,7 @@
     
     .lista-filmes strong{
         padding-bottom: 15px;
-        font-size: 20px;
+        font-size: 24px;
     }
     
     img{
@@ -193,3 +193,4 @@
         border-bottom-right-radius: 5px; 
     }
 }
+
