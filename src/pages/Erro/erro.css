@@ -1,3 +1,5 @@
+
+/* celular P */
 @media only screen and (max-device-width: 374px){
     .erro{
         display: flex;
@@ -12,10 +14,11 @@
     
     .img img{
         max-height: 300px;
-        width: 540px;
+        width: 320px;
     }
 }
 
+/* celular M */
 @media only screen and (max-device-width: 767px) and (min-device-width: 375px){
 
     .erro{
@@ -31,10 +34,11 @@
     
     .img img{
         max-height: 300px;
-        width: 540px;
+        width: 320px;
     }
 }
 
+/* tablet */
 @media only screen and (max-device-width: 1023px) and (min-device-width: 768px){
 
     .erro{
@@ -54,6 +58,7 @@
     }
 }
 
+/* Desktop */
 @media only screen and (min-device-width: 1024px){
 
     .erro{

@@ -1,9 +1,29 @@
-@media only screen and (max-device-width: 374px){
+
+/* celular P  1º com zoom 2º sem zoom*/
+@media only screen and (max-device-width: 374px) and (max-device-height: 564px){
 
     .filme-info{
         display: flex;
         flex-direction: column;
-        max-width: 900px;
+        max-width: 242px;
+        height: 424px;
+        font-size: 11px;
+        margin-bottom: 4%;
+    }
+    
+    .filme-info img{
+        border-radius: 50px;
+    }
+}
+@media only screen and (max-device-width: 374px) and (min-device-height: 565px){
+
+    .filme-info{
+        display: flex;
+        flex-direction: column;
+        max-width: 242px;
+        height: 90vh;
+        font-size: 11px;
+        margin-bottom: 4%;
     }
     
     .filme-info img{
@@ -11,12 +31,31 @@
     }
 }
 
-@media only screen and (max-device-width: 767px) and (min-device-width: 375px){
+
+/* celular M 1º com zoom 2º sem zoom */
+@media only screen and (max-device-width: 767px) and (min-device-width: 375px) and (max-device-height: 564px){
 
     .filme-info{
         display: flex;
         flex-direction: column;
-        max-width: 900px;
+        max-width: 295px;
+        height: 424px;
+        font-size: 12px;
+        margin-bottom: 4%;
+    }
+    
+    .filme-info img{
+        border-radius: 50px;
+    }
+}
+@media only screen and (max-device-width: 767px) and (min-device-width: 375px) and (min-device-height: 565px){
+
+    .filme-info{
+        display: flex;
+        flex-direction: column;
+        max-width: 295px;
+        height: 89vh;
+        font-size: 12px;
     }
     
     .filme-info img{
@@ -24,14 +63,14 @@
     }
 }
 
-/* tablet */
+/* tablet 1º com zoom 2º sem zoom */
 @media only screen and (max-device-width: 1023px) and (min-device-width: 768px) and (max-device-height: 751px){
 
     .filme-info{
         display: flex;
         flex-direction: column;
         max-width: 610px;
-        margin-bottom: 2%;
+        margin-bottom: 4%;
         font-size: 13px;
     }
     
@@ -56,7 +95,7 @@
 }
 
 
-/* Desktop */
+/* Desktop 1º com zoom 2º sem zoom */
 @media only screen and (min-device-width: 1024px) and (max-device-height: 751px){
 
     .filme-info{

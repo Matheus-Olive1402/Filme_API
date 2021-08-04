@@ -3,13 +3,14 @@ import './filme-info.css';
 
 class Filme extends Component{
 
+
     constructor(props){
         super(props);
         this.state = {
             filme: []
         }
     }
-//Usar de forma direta pois não tem a parte logica (DIFERENTE DE HOME)
+//Usar de forma direta pois não tem a parte lógica (DIFERENTE DE HOME), sendo que o ${id} o HOME que envia
     componentDidMount(){
         const { id } = this.props.match.params;
         let url = `https://sujeitoprogramador.com/r-api/?api=filmes/${id}`;
@@ -23,6 +24,7 @@ class Filme extends Component{
 
     }
 
+// os filme.nome, filme.foto, filme.sinopse e filme.length . são tão estipulados na API que tem um JSON com eles
     render(){
         return(
             <div className="filme-info">
