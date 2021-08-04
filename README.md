@@ -1,72 +1,93 @@
-Trabalhando...
+<h1 align="center">Filme API</h1>
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/matheusoliveiradev/">
+ <img alt="" src="https://img.shields.io/badge/feito%20pelo-Matheus-blue">
+ </a>
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Matheus-Olive1402/Filme_API">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Matheus-Olive1402/Filme_API">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Matheus-Olive1402/Filme_API">
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+<br>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Sobre o projeto 👨‍💻 
+<h4> Site de sinopses e informações de filmes blockbuster por meio de API e site Responsivo . </h4>
+<p>
+    <a href="https://pt-br.reactjs.org/">🔗 Site pra visualização</a>
+</p>
 
-### `yarn start`
+---
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Status do projeto 🔧
+<h4 align="center"> 
+	🚧  Open Feedback Finalizado 🚀  🚧 <br>
+</h4>
 
-### `yarn test`
+---
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+- [x] API com AXIOS
+- [x] Responsividade
 
-### `yarn build`
+---
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como executar o projeto 🚀
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este projeto é apenas Frontend.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### Pré-requisitos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Clone este repositório
+$ git clone git@github.com:Matheus-Olive1402/Filme_API.git
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Filme_API
 
-## Learn More
+# Instale as dependências
+$ npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# A aplicação será aberta na porta:local (pode variar de maquina para maquina)
 
-### Code Splitting
+```
+---
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Tecnologias 🛠
 
-### Analyzing the Bundle Size
+As seguintes ferramentas foram usadas na construção do projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [AXIOS pacote](https://www.npmjs.com/package/axios)
 
-### Making a Progressive Web App
+---
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Autor 🎨👨‍🎨
 
-### Advanced Configuration
+<a href="https://github.com/Matheus-Olive1402">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79922865?v=4" width="130px;" alt=""/>
+ <br />
+ <sub><b>Matheus Oliveira</b></sub></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+Estou sempre querendo aprender e busco oportunidades de me aperfeiçoar profissionalmente, estou sempre aberto a sugestões e dicas 😁, 👋🏽 Entre em contato!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusoliveiradev/)](https://www.linkedin.com/in/matheusoliveiradev/) [![Outlook Badge](https://img.shields.io/badge/-matheus.olive1402@hotmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.olive1402@hotmail.com)](mailto:matheus.olive1402@hotmail.com)
