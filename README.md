@@ -8,7 +8,7 @@
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Matheus-Olive1402/Filme_API">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Matheus-Olive1402/Filme_API">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Matheus-Olive1402/Filme_API">
- <a href="https://github.com/">
+ <a href="https://github.com/Matheus-Olive1402/Filme_API/blob/main/LICENSE.md">
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
  </a>
 </p>
@@ -18,7 +18,7 @@
 ## Sobre o projeto 👨‍💻 
 <h4> Site de sinopses e informações de filmes blockbuster por meio de API e site Responsivo . </h4>
 <p>
-    <a href="https://pt-br.reactjs.org/">🔗 Site</a>
+    <a href="https://filme-api.netlify.app/">🔗 Site</a>
 </p>
 
 ---
@@ -78,6 +78,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [AXIOS pacote](https://www.npmjs.com/package/axios)
+- [react-router-dom pacote](https://reactrouter.com/web/guides/quick-start)
 
 ---
 <br>

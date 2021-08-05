@@ -25,6 +25,7 @@ class Filme extends Component{
     }
 
 // os filme.nome, filme.foto, filme.sinopse e filme.length . são tão estipulados na API que tem um JSON com eles
+// eslint-disable-next-line  react/jsx-no-bind
     render(){
         return(
             <div className="filme-info">
