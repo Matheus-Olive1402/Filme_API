@@ -27,7 +27,7 @@
 
 ## Status do projeto 🔧
 <h4 align="center"> 
-	🚧  Open Feedback Finalizado 🚀  🚧 <br>
+	🚧  Filme_API Finalizado 🚀  🚧 <br>
 </h4>
 
 ---
