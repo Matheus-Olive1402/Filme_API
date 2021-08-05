@@ -18,7 +18,7 @@
 ## Sobre o projeto 👨‍💻 
 <h4> Site de sinopses e informações de filmes blockbuster por meio de API e site Responsivo . </h4>
 <p>
-    <a href="https://pt-br.reactjs.org/">🔗 Site pra visualização</a>
+    <a href="https://pt-br.reactjs.org/">🔗 Site</a>
 </p>
 
 ---
